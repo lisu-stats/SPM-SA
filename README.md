@@ -1,5 +1,5 @@
 # SPM-SA
-Code for performing  transparent sensitivity analysis for shared parameter models, based on the manuscript 'A Sensitivity Analysis Approach for Informative Dropout using Shared Parameter Models' by Li Su, Qiuju Li, Jessica Barrett, Mike Daniels (2018).
+Code for performing  transparent sensitivity analysis for shared parameter models, based on the manuscript 'A Sensitivity Analysis Approach for Informative Dropout using Shared Parameter Models' by Li Su, Qiuju Li, Jessica Barrett and Mike Daniels (2018).
 
 1) SPM_model.R: WinBUGS code for fitting the shared parameter model to the HERS data
 2) postsample100.Rdata: R data file for saved 100 posterior samples from the fitted SPM to the HERS data
